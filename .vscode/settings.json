@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^pdfinfo 'DEF Selection_Iteration_Algorithms_Worksheet\\.pdf' && pdftotext -layout 'DEF Selection_Iteration_Algorithms_Worksheet\\.pdf' -$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
